@@ -1,5 +1,3 @@
-### Tarea Clase4 23 de Diciembre
-
 ### Conflictos en Git - 20
 
 - Franco Leiva
@@ -10,5 +8,3 @@
 - David
 - Cristian
 - Ismael
-
-Nota: Se integraron ambas versiones (local y remota).
