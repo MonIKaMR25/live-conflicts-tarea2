@@ -1,4 +1,4 @@
-### Tarea Clase4 23 de Diciembre
+### Tarea Clase4 30 de Diciembre
 
 - Franco Leiva
 - Luis
@@ -10,3 +10,4 @@
 - Ismael
 - Uriel
 - Mary
+- Ale
