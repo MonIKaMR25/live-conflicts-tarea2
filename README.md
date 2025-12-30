@@ -1,4 +1,4 @@
-### Conflictos en Git - 20
+### Tarea Clase4 23 de Diciembre
 
 - Franco Leiva
 - Luis
@@ -8,3 +8,4 @@
 - David
 - Cristian
 - Ismael
+- Uriel
