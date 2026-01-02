@@ -1,4 +1,4 @@
-### Tarea Clase4 30 de Diciembre
+### Tarea Clase4 23 de Diciembre
 
 - Franco Leiva
 - Luis
@@ -7,7 +7,6 @@
 - Eduardo
 - David
 - Cristian
-- Ismael
 - Uriel
 - Mary
 - Ale
