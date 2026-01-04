@@ -1,0 +1,7 @@
+7e24d47 (HEAD -> feat/add-new-names) Add user5
+99cdba1 Add user4
+6cbf994 Add user3
+cb5cb05 Add user2
+10c3d10 Add user1
+
+git rebase -i 9503c51
