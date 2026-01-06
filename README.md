@@ -1,4 +1,4 @@
-### Conflictos en Git Clase5 5 de Enero
+### Conflictos en Git Clase5 6 de Enero
 
 - Franco Leiva
 - Luis
@@ -14,3 +14,4 @@
 - User3
 - User4
 - User5
+- User6
